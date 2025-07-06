@@ -1,0 +1,14 @@
+<div class="divider"></div>
+<table class="tableWidth100">
+<tr>
+<td class="personaIcon grayBG"><img src="/_media/persona/east-constrain.png"></td>
+<td class="grayBG cellPadding"><span class="personaName">Constrain</span> <span class="personaTag gray">One-time Use</span>
+<span class="personaDescription">The Cipher Machine farthest away from you at the start of the game cannot be decoded for 40 seconds.</span></td>
+</tr>
+<tr>
+<td></td>
+<td class="cellPadding"><b>Without Area Selection mode</b>, Constrain is hard to be utilized effectively due to the random pre-set spawns. Survivors may spawn nowhere near the blocked cipher, making the trait completely useless, but it can also backfire on Joseph:<p>Survivors in rank tend to decode their nearest cipher without rotating away when playing against Joseph. The reason is to finish a cipher quickly, or even pop one before the Camera World can reduce the progress. By memorizing spawn points and finding their mirror images, Joseph can figure out which cipher each survivor is working on. But if a survivor spawns near the blocked cipher, they'll have to run around to find another one farther away, which forces you to spend extra time figuring out both where that survivor went and which cipher they chose instead.<p>How quickly you figure that out can greatly affect the match. Knowing survivors’ positions is Joseph's main key point to win games.<p><table><tr><td class="noPadding"><img src="/_media/constrain1_ss.png"></td><td class="noPadding"><img src="/_media/constrain2_ss.png"></td></tr><tr><td colspan="2"><span class="undertext">No Constrain vs. Constrain<br>Ciphers circled in pink are very likely to be decoded.</span></td></tr></table><p>Assuming you take the northern route for the first survivor and then make your way to the northern broken walls, you’ll be able to check if northern broken walls' cipher is decoded by the third survivor. If it is and you have Tinnitus, that person is very likely to still be in that area. But if Constrain seals that off, you’ll have one less piece of information about their whereabouts.<p>Thus, the swapping mirror image strategy would also not work if the last mirror image you find is next to the blocked cipher.<p>With Area Selection mode, Constrain becomes much more useful. You'll be able to see where each survivor spawns, so you can select areas to intentionally block specific ciphers. For example, you can lock ciphers in strong kiting areas, or even block the one closest to the survivor who spawned farthest away.
+
+You'll be able to see what survivor spawned where, which also gives you the option to purposefully seal off specific cipher machines. For example, you could lock off ciphers in strong kiting areas, or even lock the cipher of the furthest spawning survivor.<p>It can come in handy if you play delayed camera strategy too.
+</tr>
+</table>

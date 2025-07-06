@@ -1,0 +1,1 @@
+Time Jump should be unlocked as fast as possible, preferably before activating the second Camera World, as it allows Joseph to have something to chase survivors with, as well as further enhancing his map control. On top of that, it also allows him to know where the nearest survivor is — a powerful tool to find downed survivors when used properly.
